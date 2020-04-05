@@ -1,1 +1,2 @@
 git ignore example
+added second line
