@@ -1,4 +1,0 @@
-git ignore example
-added second line
-added third line
-added fourth line
